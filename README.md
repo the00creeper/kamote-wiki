@@ -4,6 +4,11 @@ description: Basta wag niyo lang abusuhin inanyo
 
 # 📋 Moderator Commands
 
+### Argument Types
+
+* `<argument>` - required
+* `[argument]` - optional
+
 | Command                                 | Description                                                                            |
 | --------------------------------------- | -------------------------------------------------------------------------------------- |
 | `/alts <player>`                        | Show other accounts linked to a player's IP address                                    |
@@ -32,3 +37,4 @@ description: Basta wag niyo lang abusuhin inanyo
 | `/tempban <player> <duration> [reason]` | Temporarily bans a player                                                              |
 | `/tp <player>`                          | Teleports instantly to a player                                                        |
 | `/unban <player>`                       | Unbans a banned player                                                                 |
+
