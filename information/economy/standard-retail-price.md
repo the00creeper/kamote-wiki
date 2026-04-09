@@ -9,7 +9,7 @@ The **Standard Retail Price (SRP)** system establishes recommended prices for ra
 Its purpose is to maintain a fair and balanced economy by preventing excessive overpricing, ensuring that essential rare items remain accessible to all players—especially newcomers who may not yet be familiar with market values.&#x20;
 
 {% hint style="warning" %}
-Selling items above the SRP is punishable under [_Kamnst. art. III, § 7_](../../the-justice-system/the-kamonstitution.md#article-iii-the-economy)_._
+Selling items **above** or **below** the SRP is punishable under [_Kamnst. art. III, § 7_](../../the-justice-system/the-kamonstitution.md#article-iii-the-economy)_._
 {% endhint %}
 
 The table below lists the current SRP for selected items:
