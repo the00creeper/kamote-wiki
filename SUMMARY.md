@@ -10,3 +10,8 @@
   * [🔃 Moving Player Ranks](moderation/standard-operating-procedures-sops/moving-player-ranks.md)
 * [📋 Moderator Commands](moderation/moderator-commands.md)
 * [🔎 CoreProtect Arguments](moderation/coreprotect-arguments.md)
+
+## Meetings
+
+* [MM-GEN-002-20260323](meetings/mm-gen-002-20260323.md)
+* [MM-GEN-003-20260408](meetings/mm-gen-003-20260408.md)
