@@ -1,5 +1,5 @@
 ---
-description: Having alt accounts is a bannable offense, Light Dihh
+description: Having alt accounts is a bannable offense, Light Dihh!
 ---
 
 # 👤 Checking Alternate Accounts
