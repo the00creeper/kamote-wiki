@@ -45,7 +45,7 @@ Posts may include:
 
 ## Using Tags 🏷️
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 When creating a marketplace post, players must select **one or more tags** that best describe what they are offering. Tags help shoppers quickly filter listings and find exactly what they are looking for.
 

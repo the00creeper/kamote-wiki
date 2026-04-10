@@ -6,7 +6,7 @@ description: >-
 
 # 🤝 Teams (Familias)
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>The Shadow Empire Family | August 16, 2025</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>The Shadow Empire Family | August 16, 2025</p></figcaption></figure>
 
 On this server, we don’t use the word _“team.”_ Instead, we use **Familia** — a term that emphasizes connection, trust, and long-term bonds rather than hierarchy or competition.
 

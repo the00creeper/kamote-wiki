@@ -45,7 +45,7 @@ The End dimension will open on: **Sunday, January 25, 2026 9:30 PM**
 Kung gusto niyo mag-craft, limited lang na bukas ang End, kaya siguraduhin niyong magdala ng maraming **empty bottles** para sa Dragon’s Breath; kumuha na rin kayo ng maraming **chorus fruit**!
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

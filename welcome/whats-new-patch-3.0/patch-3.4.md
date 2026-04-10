@@ -12,7 +12,7 @@ Sa patch na ito, may ilang improvements sa **server economy, tools, and immersio
 
 ## 🏪 New Shop Mechanics
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Nagbago na ang mechanics sa paggawa ng **player shops**. Dati, imposibleng maibenta ang mga sumusunod na items:
 
@@ -39,7 +39,7 @@ Read the step-by-step guide in the wiki:&#x20;
 
 ## 💲 Standard Retail Prices (SRP) Implemented
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Implemented na ang **SRP** sa mga items na napag-usapan natin nitong nakaraang staff-player meeting.
 
@@ -64,7 +64,7 @@ Nagbago na ang schedule ng ating **weekly End Fight event**to a bi-weekly schedu
 
 ## :gear: **Technical Server Configurations**
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Mayroon nang bagong wiki page na dedicated sa lahat ng **technical server configuration files**.
 
