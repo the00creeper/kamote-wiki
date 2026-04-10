@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# 🔍 CoreProtect Arguments
+# 🔎 CoreProtect Arguments
 
 The CoreProtect `/co lookup` command line may be followed by the following arguments:
 
@@ -35,6 +35,6 @@ These arguments may be written **in any order**.
 
 <mark style="color:red;">C</mark><mark style="color:orange;">o</mark><mark style="color:yellow;">l</mark><mark style="color:$success;">o</mark><mark style="color:blue;">r</mark><mark style="color:purple;">-</mark><mark style="color:$primary;">c</mark><mark style="color:$success;">o</mark><mark style="color:yellow;">d</mark><mark style="color:orange;">e</mark><mark style="color:$danger;">d</mark> examples para sa mga bad—
 
-<figure><img src=".gitbook/assets/coreprotect-kamote-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/coreprotect-kamote-1.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/coreprotect-kamote-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/coreprotect-kamote-2.png" alt=""><figcaption></figcaption></figure>
