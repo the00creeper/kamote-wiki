@@ -23,11 +23,11 @@ Nagbago na ang mechanics sa paggawa ng **player shops**. Dati, imposibleng maibe
 
 Mayroong **7-day transition period** para **i-covert** lahat ng mga old shops to this new one, bago na nating tuluyang i-abandon yung dating mechanics.
 
-### 📖 Tutorial
+### 📖 Tutorials
 
 Watch the tutorial video:
 
-{% embed url="https://www.tiktok.com/@kamote.server/video/7616337539766570261" %}
+* **TikTok**: [https://www.tiktok.com/@kamote.server/video/7616337539766570261](https://www.tiktok.com/@kamote.server/video/7616337539766570261)
 
 Read the step-by-step guide in the wiki:&#x20;
 
