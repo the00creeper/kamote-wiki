@@ -6,7 +6,9 @@ description: A Semi-Vanilla, Semi-Economy Minecraft Survival Multiplayer Server!
 
 <figure><img src=".gitbook/assets/2025-08-02_01.06.16 (A New Beginning).png" alt=""><figcaption><p>Players in front of the <a href="the-justice-system/kamorte-suprema/">Kamorte Suprema</a> at sunrise | August 02, 2025</p></figcaption></figure>
 
-## About Us 🥔
+<h2 align="center">Welcome to Kamote Server! 🥔</h2>
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><i class="fa-newspaper">:newspaper:</i></td><td><strong>What's New</strong></td><td>Check the latest Patch Update changes!</td><td><a href="welcome/whats-new-patch-3.0/">whats-new-patch-3.0</a></td></tr><tr><td><i class="fa-right-to-bracket">:right-to-bracket:</i></td><td><strong>How to Join</strong></td><td>Hop on the server and join in on the fun!</td><td><a href="welcome/how-to-join.md">how-to-join.md</a></td></tr><tr><td><i class="fa-book-open-lines">:book-open-lines:</i></td><td><strong>Rules</strong></td><td>Check out how what's good, bad, and ugly!</td><td></td></tr></tbody></table>
 
 We are a **Philippine-based** 🇵🇭 Minecraft SMP whose ideals center on preserving the **vanilla aspects** of the game through **genuine** player-to-player relationships! We're more than just an SMP, **we're a family** that helps each other grow, and our compassion extends beyond the borders of the game! _**Tara, laro tayo!**_
 
