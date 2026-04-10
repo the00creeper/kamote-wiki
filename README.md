@@ -16,7 +16,7 @@ description: A Semi-Vanilla, Semi-Economy Minecraft Survival Multiplayer Server!
 
 <p align="center"><sup>— Kamote Server Motto</sup></p>
 
-<h2 align="center">🌟 What Makes Us Stand Out 🌟</h2>
+<h2 align="center"> What Makes Us Stand Out </h2>
 
 {% columns %}
 {% column valign="middle" %}
@@ -56,7 +56,7 @@ description: A Semi-Vanilla, Semi-Economy Minecraft Survival Multiplayer Server!
 {% endcolumn %}
 {% endcolumns %}
 
-## Kamote Socials 🔗
+<h2 align="center">Kamote Socials 🔗</h2>
 
 {% embed url="https://discord.gg/ghSPj3QebZ" fullWidth="false" %}
 
