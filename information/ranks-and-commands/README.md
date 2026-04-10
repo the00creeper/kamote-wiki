@@ -121,7 +121,7 @@ Supporter roles do **not** affect rank progression and are **not required** to a
 
 * Must have attained at least **\[MANGGA] Rank**
 
-### <img src="../../.gitbook/assets/BOOSTER_big.png" alt="" data-size="line"> Rank <img src="../../.gitbook/assets/image (6).png" alt="" data-size="line">
+### <img src="../../.gitbook/assets/BOOSTER_big.png" alt="" data-size="line"> Rank <img src="../../.gitbook/assets/image (6) (1).png" alt="" data-size="line">
 
 Granted to players who support the server by boosting the Discord server.
 

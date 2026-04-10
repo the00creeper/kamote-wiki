@@ -8,6 +8,8 @@
   * [✅ Patch 3.1](welcome/whats-new-patch-3.0/patch-3.1.md)
   * [🪄 Patch 3.2](welcome/whats-new-patch-3.0/patch-3.2.md)
   * [🌌 Patch 3.3](welcome/whats-new-patch-3.0/patch-3.3.md)
+  * [💲 Patch 3.4](welcome/whats-new-patch-3.0/patch-3.4.md)
+  * [🔐 Patch 3.5](welcome/whats-new-patch-3.0/patch-3.5.md)
 * [🔔 The Admins](welcome/the-admins.md)
 * [📥 How to Join](welcome/how-to-join.md)
 

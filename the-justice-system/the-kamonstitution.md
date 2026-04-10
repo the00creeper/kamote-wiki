@@ -1,6 +1,6 @@
 # 📜 The Kamonstitution
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 **The 2025 Kamonstitution** embodies the foundational laws and ideals of Kamote Server. Established within are our commitment to the **vanilla Minecraft experience** with light, player-driven economics, and a strong emphasis on community, fairness, and due process. Defined are the structure of **justice** through courts and trials, protects **player rights** and property, and outlines **responsible use** of land and technology. The **Kamonstitution**, through its articles, ensures order, sustainability, and meaningful player interaction **over status or power**.
 

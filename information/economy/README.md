@@ -6,7 +6,7 @@ description: >-
 
 # 🪙 Economy
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 <h2 align="center">$1 = 1 <img src="../../.gitbook/assets/Diamond_JE3_BE3.webp" alt="" data-size="line"></h2>
 
