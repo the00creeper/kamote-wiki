@@ -64,7 +64,7 @@ You **cannot join the server** without this mod installed.
 
 <details>
 
-<summary>How to Download Minecraft Mods</summary>
+<summary><strong>How to Download Minecraft Mods</strong></summary>
 
 Here are some YouTube tutorials on how to download mods according to your Minecraft launcher:
 
