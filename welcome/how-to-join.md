@@ -64,13 +64,13 @@ You **cannot join the server** without this mod installed.
 
 <details>
 
-<summary>💢 <em><strong>But I've never downloaded mods before!</strong></em></summary>
+<summary>How to Download Minecraft Mods</summary>
 
 Here are some YouTube tutorials on how to download mods according to your Minecraft launcher:
 
 * TLauncher: [https://www.youtube.com/watch?v=suvxbNRTjyM](https://www.youtube.com/watch?v=suvxbNRTjyM)
 * Legacy Launcher: [https://www.youtube.com/watch?v=OMIYuQcodw4](https://www.youtube.com/watch?v=OMIYuQcodw4)
-* Official Minecraft Launcher: [https://www.youtube.com/watch?v=RpN94a2q8JI\&t=131s](https://www.youtube.com/watch?v=RpN94a2q8JI\&t=131s)
+* Official Minecraft Launcher: [https://www.youtube.com/watch?v=RpN94a2q8JI](https://www.youtube.com/watch?v=RpN94a2q8JI\&t=131s)
 
 </details>
 {% endstep %}
