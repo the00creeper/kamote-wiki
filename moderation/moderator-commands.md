@@ -37,4 +37,5 @@ description: Basta wag niyo lang abusuhin inanyo
 | `/tempban <player> <duration> [reason]` | Temporarily bans a player                                                              |
 | `/tp <player>`                          | Teleports instantly to a player                                                        |
 | `/unban <player>`                       | Unbans a banned player                                                                 |
+| `/unregister <player>`                  | Unregisters a player                                                                   |
 
