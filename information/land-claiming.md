@@ -6,6 +6,10 @@ description: >-
 
 # 🏝️ Land Claiming
 
+{% hint style="danger" %}
+The Land Claiming feature has been disabled in Season 5. Land protection and anti-griefing laws still exist to prevent the destruction of builds.
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 This guide will walk you through **how to claim land step-by-step**, explain how claim blocks work, and highlight important rules to keep in mind when managing multiple claims.
