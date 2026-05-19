@@ -1,5 +1,6 @@
 ---
 description: Part of Kamote Server — Patch 3.3
+hidden: true
 ---
 
 # 🐲 Ender Dragon on Steroids!
