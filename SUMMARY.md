@@ -16,3 +16,4 @@
 * [MM-GEN-002-20260323](meetings/mm-gen-002-20260323.md)
 * [MM-GEN-003-20260408](meetings/mm-gen-003-20260408.md)
 * [MM-GEN-004-20260414](meetings/mm-gen-004-20260414.md)
+* [MM-STP-002-20260423](meetings/mm-stp-002-20260423.md)
