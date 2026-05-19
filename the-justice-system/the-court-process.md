@@ -75,9 +75,7 @@ The accused party becomes the:
 
 * **Defendant** — must defend their **innocence** with evidence.
 
-The defendant’s in-game rank is temporarily changed to:
-
-* **`ACCUSED`**
+The defendant’s in-game rank is temporarily changed to **`ACCUSED`.**
 
 {% hint style="warning" %}
 Players with the `ACCUSED` rank cannot execute commands until they are acquitted or have served their sentence.
