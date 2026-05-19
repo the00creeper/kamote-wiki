@@ -1,9 +1,8 @@
 ---
 description: The entire judicial process of Kamote Server, from beginning to end.
-hidden: true
 ---
 
-# The Court Process
+# ⚖️ The Court Process
 
 The **Kamorte Suprema** is the highest court of justice in Kamote Server and is responsible for resolving disputes, enforcing server rules, and ensuring fairness within the community. Cases may involve player-to-player conflicts such as griefing or theft, or server-wide offenses such as cheating and exploiting.
 
@@ -261,7 +260,7 @@ The judge officially declares the court:
 
 ***
 
-## 9. Attendance Rules
+## Attendance Rules
 
 ### Prosecution Absence
 
@@ -274,76 +273,67 @@ If it happens a second time:
 * The case is dismissed
 * Defendant is acquitted by default
 
-***
-
 ### Defense Absence
 
 If the defense fails to appear without notice:
 
-* Trial may proceed in absentia
+* Trial may proceed _in absentia_
 
 The defendant risks:
 
-* Default conviction
 * Losing opportunity to defend themselves
+* Default conviction
 
 ***
 
-## 10. Swearing Under Oath
+## Swearing Under Oath
 
 Before participating, defendants must swear under oath:
 
 > “I, state your name, solemnly swear to tell the truth, the whole truth, and nothing but the truth. So help me God.”
 
-⚠️ Refusing the oath may result in:
-
-* Contempt of court
-* Loss of defense privileges
+{% hint style="warning" %}
+Refusing the oath may result in contempt of court, therefore losing the privilege to defend.
+{% endhint %}
 
 Multiple defendants are sworn in individually.
 
 ***
 
-## 11. Trial by Judge or Jury
+## Trial by Judge or Jury
 
-Defendants may choose between:
+Defendants are asked to choose between:
 
-### Trial by Judge
+* Trial by Judge — the judge alone determines the verdict; or
+* Trial by Jury — five impartial jurors determine the verdict. Jurors must:
+  * Be unaffiliated with either party
+  * Base decisions solely on presented evidence
 
-* Judge alone determines the verdict
-
-OR
-
-### Trial by Jury
-
-* Five impartial jurors determine the verdict
-
-Jurors must:
-
-* Be unaffiliated with either party
-* Base decisions solely on presented evidence
-
+{% hint style="info" %}
 The first five qualified volunteers become the jury.
+{% endhint %}
 
 ***
 
 ### Jury Oath
 
-Jurors swear to:
+The duty of the jury is recited to them:
 
-* Remain impartial
-* Ignore personal bias
-* Deliver a verdict based only on evidence and law
+> “Members of the jury, your duty today is critical. You must remain completely impartial and cast aside all personal bias. You are required to deliver a verdict based solely on the evidence presented in this room, not on speculation or rumor. Pay close attention to both parties, listen to every word, and take note of every important detail. The truth depends on your absolute focus.”
 
+Once they understand their duty, they are sworn in oath:
+
+> “I, state your name, vested with the power of the Kamonstitution, solemnly swear, to review all evidence, with absolute fairness, cast aside personal bias, and deliver a just and truthful verdict, based solely on the law. So help me God.”
+
+{% hint style="info" %}
 Jurors are strongly encouraged to take notes.
+{% endhint %}
 
-If no jury is selected:
-
-* The judge must swear the same impartiality oath before acting as sole arbiter.
+In a trial by judge, the judge must swear the same impartiality oath before acting as sole arbiter.
 
 ***
 
-## 12. Trial Proper
+## Trial Proper
 
 ### Opening Statements
 
@@ -353,8 +343,6 @@ The prosecution begins by presenting:
 * Timeline
 * Context
 * Supporting evidence
-
-Only evidence verified during pre-trial may be used.
 
 The defense then:
 
@@ -367,13 +355,13 @@ Both parties may:
 
 * Stream evidence presentation on Discord
 
-***
+{% hint style="warning" %}
+Only evidence verified during pre-trial may be used by both parties.
+{% endhint %}
 
 ### Courtroom Conduct
 
-Arguments should always address:
-
-* The judge (third-person)
+Arguments should always address the judge (third-person) and not the other party (second-person).
 
 Correct:
 
@@ -389,9 +377,7 @@ The judge may intervene anytime for:
 * Additional context
 * Procedural control
 
-***
-
-## 13. Objections
+### Objections
 
 Parties may object if the opposing side:
 
@@ -402,22 +388,14 @@ Parties may object if the opposing side:
 
 The judge responds with:
 
-### Objection Sustained
-
-The objection is accepted.
-
-### Objection Overruled
-
-The objection is denied.
+* Objection Sustained — the objection is granted.
+* Objection Overruled — the objection is denied.
 
 ***
 
-## 14. Jury Deliberation
+## Jury Deliberation
 
-If jury trial was chosen:
-
-* Jurors are moved to the **Verdict Hall**
-* Deliberations occur privately
+If jury trial was chosen, the jurors are teleported by the judge to the **Verdict Hall** and are moved to the **“Verdict Room”** voice channel.
 
 Jurors may:
 
@@ -425,23 +403,21 @@ Jurors may:
 * Debate interpretations
 * Attempt to persuade one another
 
-However:
-
-* Coercion is prohibited
+{% hint style="warning" %}
+Forcing other jurors to overturn their vote is prohibited.
+{% endhint %}
 
 Each juror privately casts either:
 
 * “Guilty”
 * “Not Guilty”
 
-***
-
 ### Unanimous Verdict Requirement
 
-⚠️ Jury verdicts must be unanimous.
+Jury verdicts must be unanimous.
 
-* 5 Guilty = Conviction
-* 5 Not Guilty = Acquittal
+* 5/5 jurors vote Guilty = Conviction
+* 5/5 jurors vote Not Guilty = Acquittal
 
 If even one juror disagrees:
 
@@ -451,7 +427,7 @@ If even one juror disagrees:
 
 ***
 
-## 15. Verdict & Sentencing
+## Verdict & Sentencing
 
 Once deliberation ends:
 
@@ -474,15 +450,15 @@ Punishment severity depends on:
 * Prior offenses
 * Judicial discretion
 
-⚠️ Punishments listed in the Wiki serve only as general guidelines.
+{% hint style="info" %}
+Punishments listed in the [Wiki](../information/rules.md#in-game-offenses-and-sanctions) serve only as general guidelines. The judge may adjust punishments depending on the nature and damage of the crime.
+{% endhint %}
 
-Convicted players also receive:
+Convicted players also receive a **server offense record**.
 
-* A server offense record
-
-Repeated convictions may lead to harsher punishment.
-
-***
+{% hint style="danger" %}
+Repeated convictions may lead to harsher punishments, eventually resulting in bans.
+{% endhint %}
 
 ### If Not Guilty
 
@@ -494,8 +470,6 @@ The defendant is:
 
 ***
 
-## 16. Adjournment
+## Adjournment
 
 Once all scheduled cases are completed, the judge formally adjourns the court session.
-
-The Kamorte Suprema exists not only to punish wrongdoing, but to preserve fairness, accountability, and trust within the Kamote Server community.
