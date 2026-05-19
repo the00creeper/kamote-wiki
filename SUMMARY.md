@@ -39,6 +39,7 @@
 * [📜 The Kamonstitution](the-justice-system/the-kamonstitution.md)
 * [🏛️ Kamorte Suprema](the-justice-system/kamorte-suprema/README.md)
   * [💼 Court Cases](the-justice-system/kamorte-suprema/court-cases.md)
+* [The Court Process](the-justice-system/the-court-process.md)
 
 ***
 
