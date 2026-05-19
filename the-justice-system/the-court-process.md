@@ -451,7 +451,7 @@ Punishment severity depends on:
 * Judicial discretion
 
 {% hint style="info" %}
-Punishments listed in the [Wiki](../information/rules.md#in-game-offenses-and-sanctions) serve only as general guidelines. The judge may adjust punishments depending on the nature and damage of the crime.
+Punishments listed in the [wiki](../information/rules.md#in-game-offenses-and-sanctions) serve only as general guidelines. The judge may adjust punishments depending on the nature and damage of the crime.
 {% endhint %}
 
 Convicted players also receive a **server offense record**.
