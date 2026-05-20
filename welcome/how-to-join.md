@@ -6,6 +6,38 @@ description: >-
 
 # 📥 How to Join
 
+## ⚠️ Important!
+
+Before anything else, we need to clarify that mods and resource packs that provide **unfair visual** or **gameplay advantages** are <mark style="color:$danger;">**expressly prohibited**</mark>. These include, but are not limited to:
+
+* Hacked clients (Meteor, Feather, Lunar, etc.)
+* Freecam (standard versions)
+* Seed crackers
+* Gamma / brightness utilities (e.g., Fullbright)
+* Replay / flashback
+* Maps / minimaps (e.g., Xaero's Map, Journeymap, etc.)
+* X-ray
+* Clear water / lava
+* Autoclickers&#x20;
+* No fog
+* Glowing ores
+
+{% hint style="danger" %}
+Any attempt to bypass these mods, such as finding alternative mods that serve the same function, may result in a <mark style="color:$danger;">**permanent ban**</mark>.
+{% endhint %}
+
+For more information about Kamote Server's rules, please visit:
+
+{% content-ref url="../information/rules.md" %}
+[rules.md](../information/rules.md)
+{% endcontent-ref %}
+
+{% content-ref url="../the-justice-system/the-kamonstitution.md" %}
+[the-kamonstitution.md](../the-justice-system/the-kamonstitution.md)
+{% endcontent-ref %}
+
+## 🚪 Joining the Server
+
 Follow the steps below to successfully join and set up your account on the server.
 
 {% stepper %}

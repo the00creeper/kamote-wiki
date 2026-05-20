@@ -22,7 +22,9 @@ Disabled na ang ilang mga mods na nagbibigay ng **unfair visual or gameplay adva
 * Gamma / brightness utilities (e.g., Fullbright)
 * Glowing ores
 * X-ray
-* Autoclickers If you have any of these mods/resource packs installed, **hindi na kayo makakapasok sa server**.
+* Autoclickers&#x20;
+
+If you have any of these mods/resource packs installed, **hindi na kayo makakapasok sa server**.
 
 {% hint style="info" %}
 Pwede pa kaming magdagdag sa listahan na ito kung may madidiskubre pa kami, kaya antabay lang kayo.
