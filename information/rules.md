@@ -12,8 +12,8 @@ description: Rules exist to establish peace and order and prevent personal confl
 
 We practice a judicial system through the oversight of the highest court, the **Kamorte Suprema,** whose purpose is to resolve server-wide disputes through **fair and impartial trials**.&#x20;
 
-{% content-ref url="../the-justice-system/kamorte-suprema/" %}
-[kamorte-suprema](../the-justice-system/kamorte-suprema/)
+{% content-ref url="../the-justice-system/the-kamorte-suprema/" %}
+[the-kamorte-suprema](../the-justice-system/the-kamorte-suprema/)
 {% endcontent-ref %}
 
 Kamote Server's rules are tied to **The 2025 Kamonstitution**, a constitution that embodies the server's laws, ideals, and principles.

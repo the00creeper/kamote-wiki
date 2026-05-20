@@ -4,7 +4,7 @@ description: A Semi-Vanilla, Semi-Economy Minecraft Survival Multiplayer Server!
 
 # 🥔 Kamote Server
 
-<figure><img src=".gitbook/assets/2025-08-02_01.06.16 (A New Beginning).png" alt=""><figcaption><p>Players in front of the <a href="the-justice-system/kamorte-suprema/">Kamorte Suprema</a> at sunrise | August 02, 2025</p></figcaption></figure>
+<figure><img src=".gitbook/assets/2025-08-02_01.06.16 (A New Beginning).png" alt=""><figcaption><p>Players in front of the <a href="the-justice-system/the-kamorte-suprema/">Kamorte Suprema</a> at sunrise | August 02, 2025</p></figcaption></figure>
 
 <h2 align="center">Welcome to Kamote Server! 🥔</h2>
 
@@ -50,7 +50,7 @@ description: A Semi-Vanilla, Semi-Economy Minecraft Survival Multiplayer Server!
 {% column %}
 <h3 align="center">Our Justice System ⚖️</h3>
 
-<p align="center">We resolve disputes and conflicts in the most objective way—by holding court trials just like in real life! Players convicted of crime is summoned to the <a href="the-justice-system/kamorte-suprema/">Kamorte Suprema</a> to face a judge and a jury and hear out their case.</p>
+<p align="center">We resolve disputes and conflicts in the most objective way—by holding court trials just like in real life! Players convicted of crime is summoned to the <a href="the-justice-system/the-kamorte-suprema/">Kamorte Suprema</a> to face a judge and a jury and hear out their case.</p>
 
 <p align="center">The <a href="the-justice-system/the-kamonstitution.md">Kamonstitution</a> is the server's constitution that legally binds all its laws, ideals, and principles! It deliberately explains all the technicalities on what's good and bad in the server.</p>
 {% endcolumn %}
